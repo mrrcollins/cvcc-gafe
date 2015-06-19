@@ -1,0 +1,10 @@
+Goals and Benchmarks
+====================
+
+..  tabularcolumns:: |p{6cm}|p{6cm}|
+..  csv-table::
+    :header: "Goal","Benchmark"
+    :widths: 50,50
+
+    "Teachers will create one Google Doc for use with their class.","By Dec. 2015, 90% of teachers will have created a Google Doc"
+    

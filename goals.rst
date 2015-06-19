@@ -23,7 +23,7 @@ Technology Coordinator and Department
     :header: "Goal","Benchmark"
     :widths: 50,50
 
-    "Technology Coordinator will meet with instructors to listen and learn their needs.","By Nov. 2015, the Technology Coordinator will have meet with 90% of the instructors."
+    "Technology Coordinator will meet with instructors to listen and learn their needs.","By Nov. 2015, the Technology Coordinator will have met with 90% of the instructors."
     "The Technology Coordinator will work with instructors on technology integrations.","By May 2016, the Technology Coordinator will have worked with 90% of the instructors on technology integration."
     "Technology Department will have written a service level agreement.","By Dec. 2015, the technology department will have a service level agreement that describes the various services and levels of support for staff and students."
     "A Technology Integration Support Team will be formed to provide staff and students additional support.","By Dec. 2015, the TIST will be in place."

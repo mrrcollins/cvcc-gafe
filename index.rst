@@ -11,7 +11,8 @@ Contents:
 .. toctree::
    :maxdepth: 2
 
-   instroduction
+   introduction
+   ataglance
    timeline
    drive
    docs

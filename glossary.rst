@@ -21,5 +21,6 @@ Glossary
 
 	Chrome
 		The Google produced web browser is available for Windows, OS X, Linux, and Chromebooks.
-		
-		
+	
+	Service Level Agreement (SLA)
+		A document that lists standard lengths of time for tasks to be accomplished by the technology department. For example, all new help desk tickets will be acknowledged within 60 minutes.

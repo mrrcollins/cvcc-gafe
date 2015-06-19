@@ -14,16 +14,8 @@ Contents:
    introduction
    ataglance
    timeline
+   goals
    chromebook
    gafe
    onlinesafety
    glossary
-
-
-Indices and tables
-==================
-
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
-

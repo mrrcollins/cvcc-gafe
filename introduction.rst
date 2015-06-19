@@ -1,5 +1,7 @@
-Introducation to implementing Google Apps for Education
-=======================================================
+Introducation
+=============
+
+The 
 
 Updates and changes
 -------------------

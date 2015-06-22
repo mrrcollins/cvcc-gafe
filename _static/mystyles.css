@@ -1,0 +1,29 @@
+@import url("css/theme.css"); /* Grab default CSS */
+
+table.docutils {
+    width: 100%;
+}
+
+table.docutils td {
+    white-space: normal;
+}
+
+.wy-side-nav-search {
+    background-color: #98002e;
+}
+
+a {
+    color: #98002e;
+}
+
+a:visited {
+    color: #75809A;
+}
+
+.wy-menu-vertical a {
+    color: #b3b3b3;
+}
+
+.wy-side-nav-search>a, .wy-side-nav-search .wy-dropdown>a {
+    color: #fcfcfc;
+}

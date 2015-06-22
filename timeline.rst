@@ -22,6 +22,7 @@ August
 - Schedule meetings with staff and technology coordinator
 
 	- By department? Grade level?
+    - Survey staff on expectations and needs
 
 September
 ---------

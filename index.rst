@@ -3,10 +3,8 @@
    You can adapt this file completely to your liking, but it should at least
    contain the root `toctree` directive.
 
-The CVCC Chromebook and GAfE Implementation documentation
+The CVCC Chromebook and GAFE Implementation documentation
 =========================================================
-
-Contents:
 
 .. toctree::
    :maxdepth: 2
@@ -19,3 +17,6 @@ Contents:
    gafe
    onlinesafety
    glossary
+
+.. TODO: include an FAQ
+

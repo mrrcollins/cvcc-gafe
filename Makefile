@@ -56,6 +56,14 @@ html:
 	@echo
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
+github:
+	cp CNAME $(BUILDDIR)/html
+	touch $(BUILDDIR)/html/.nojekyll
+	ghp-import $(BUILDDIR)/html/
+	git push -u origin gh-pages
+	@echo
+	@echo "Published to Github"
+
 dirhtml:
 	$(SPHINXBUILD) -b dirhtml $(ALLSPHINXOPTS) $(BUILDDIR)/dirhtml
 	@echo

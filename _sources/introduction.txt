@@ -1,4 +1,4 @@
-Introducation
+Introduction
 =============
 
 These are exciting times for the Cuyahoga Valley Career Center. With the introduction of Google Apps for Education and a 1:1 program with students using Chromebooks, staff and students will be able to embrace the 4-Cs of 21st century learning: communication, collaboration, creation, and critical thinking.

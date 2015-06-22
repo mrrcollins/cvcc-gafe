@@ -57,6 +57,14 @@ html:
 	@echo "Build finished. The HTML pages are in $(BUILDDIR)/html."
 
 github:
+	$(SPHINXBUILD) -b html $(ALLSPHINXOPTS) $(BUILDDIR)/html
+	$(SPHINXBUILD) -b epub $(ALLSPHINXOPTS) $(BUILDDIR)/epub
+	$(SPHINXBUILD) -b latex $(ALLSPHINXOPTS) $(BUILDDIR)/latex
+	@echo "Running LaTeX files through pdflatex..."
+	$(MAKE) -C $(BUILDDIR)/latex all-pdf
+	@echo "pdflatex finished; the PDF files are in $(BUILDDIR)/latex."
+	cp $(BUILDDIR)/latex/CuyahogaValleyCareerCenterGAFEImplementation.pdf $(BUILDDIR)/html/cvcc-gafe.pdf
+	cp $(BUILDDIR)/epub/CuyahogaValleyCareerCenterGAFEImplementation.epub $(BUILDDIR)/html/cvcc-gafe.epub
 	cp CNAME $(BUILDDIR)/html
 	touch $(BUILDDIR)/html/.nojekyll
 	ghp-import $(BUILDDIR)/html/

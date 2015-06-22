@@ -324,6 +324,7 @@ epub_copyright = copyright
 
 # A tuple containing the cover image and cover page html template filenames.
 #epub_cover = ()
+epub_cover = ('_static/cover.png','epub-cover.html')
 
 # A sequence of (type, uri, title) tuples for the guide element of content.opf.
 #epub_guide = ()

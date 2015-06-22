@@ -6,7 +6,7 @@ These are exciting times for the Cuyahoga Valley Career Center. With the introdu
 What is this?
 -------------
 
-The information contained on the following pages will be published on a website and also be available in PDF and ePub format. The goal is to provide staff and students not only a roadmap on how these new technologies will be implemented, but also help answer why these new technologies are being implemented.
+The information contained on the following pages will be published on a website (http://cvcc.eduk8.me) and also be available in PDF and ePub format. The goal is to provide staff and students not only a roadmap on how these new technologies will be implemented, but also help answer why these new technologies are being implemented.
 
 Updates and changes
 -------------------
